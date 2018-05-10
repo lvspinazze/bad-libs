@@ -5,16 +5,16 @@
 
 
 body {
-    background-color: #FFD700;
+    background-color: #4ce1cb;
     color: white;
 }
 
 
 /*transparent input field*/
 #author-input, #word-input {
-  font-family: 'Crafty Girls', cursive;
+  font-family: 'Heebo', sans-serif;
   font-size: 24px;
-  color: #696969;
+  color: #804CE1;
   border: none;
   outline: none;
   background: transparent;
@@ -28,13 +28,13 @@ body {
 #author-question, #term-question {
   font-family: 'Heebo', sans-serif;
   font-size: 48px;
-  color: #00BFFF;
+  color: #E14C62;
 }
 
 #word-question {
   font-family: 'Heebo', sans-serif;
-  font-size: 28px;
-  color: #C0C0C0;
+  font-size: 24px;
+  color: #303b39;
 }
 
 #start-badlib-button {
@@ -68,7 +68,7 @@ body {
 
 #story-title {
   font-family: 'Heebo', sans-serif;
-  color: #00BFFF;
+  color: #E14C62;
   font-size: 48px;
   text-transform: uppercase;
   text-align: center;
@@ -76,7 +76,7 @@ body {
 
 #story-author {
   font-family: 'Heebo', sans-serif;
-  color: #C0C0C0;
+  color: #804CE1;
   font-size: 28px;
   margin-bottom: 20px;
   text-align: center;
@@ -84,7 +84,7 @@ body {
 
 #sentence {
   font-family: 'Work Sans', sans-serif;
-  color: #696969;
+  color: #444B4A;
   font-size: 48px;
 
 }
