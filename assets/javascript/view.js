@@ -40,7 +40,7 @@ var view = {
 				"<input type='text' class='cell small-6 float-center' id='word-input' autofocus/>" +
 				"</div>" +
 				"<!-- Submit Button -->" +
-				"<button class='input-term-button clear button' id='start-badlib-button'>Enter Next Word</button>" +
+				"<button class='input-term-button clear button' id='start-badlib-button'>Next</button>" +
 				//"<p id='counter'> word " + wordCounter + " of " + allTermsCounter + "</p>" +
 			"</form>" +
 			"</div>"

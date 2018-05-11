@@ -40,7 +40,9 @@ body {
 #start-badlib-button {
   font-family: 'Heebo', sans-serif;
   color: white;
-  font-size: 36px;
+  border: solid white 3px;
+  padding: 10px;
+  font-size: 30px;
 }
 
 #next-button {
@@ -84,7 +86,7 @@ body {
 
 #sentence {
   font-family: 'Work Sans', sans-serif;
-  color: #444B4A;
+  color: white;
   font-size: 48px;
 
 }
